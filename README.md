@@ -11,6 +11,3 @@ Setiap pertemuan mahasiswa akan mendapatkan **2 jenis latihan utama**:
    - Mahasiswa diminta membuat kode baru berdasarkan **studi kasus** yang disediakan.  
    - Tujuannya membiasakan menulis kode yang **rapi, terstruktur, dan mudah dipelihara** sejak awal.
 
----
-
-## 📂 Struktur Repo
