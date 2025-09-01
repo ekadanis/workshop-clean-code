@@ -13,7 +13,6 @@ Buatlah program Java untuk menghitung nilai akhir mahasiswa berdasarkan komponen
    - Nama mahasiswa
    - Nilai Tugas, UTS, dan UAS
 2. Program menghitung nilai akhir menggunakan bobot.
-3. Program menampilkan hasil dalam format berikut:
 
 ### 🎯 Aturan yang wajib dipatuhi mahasiswa
 - **Class** → menggunakan PascalCase (contoh: `Student`, `GradeCalculator`, `MainApp`).
